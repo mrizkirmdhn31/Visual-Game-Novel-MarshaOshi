@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/ED3.rpy", line 168: show statement expects a non-empty block.
+    show freya at left:
+                       ^
+
+File "game/ED5.rpy", line 117: show statement expects a non-empty block.
+    show azizi_happy at left:
+                             ^
+
+File "game/ED6.rpy", line 191: show statement expects a non-empty block.
+    show freya_happy at left:
+                             ^
+
+Ren'Py Version: Ren'Py 8.2.0.24012702
+Thu Feb 29 17:44:48 2024
